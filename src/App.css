@@ -37,7 +37,7 @@
   margin-left: 84%;
 }
 .container_1{
-  border: 1px solid green;
+  /* border: 1px solid green; */
   display: grid;
   grid-template-columns: repeat(2, 70% 30%);
 }
